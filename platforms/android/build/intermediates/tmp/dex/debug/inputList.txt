@@ -1,0 +1,2 @@
+/Users/duncanunderwood/Desktop/apps/melbeerfest/platforms/android/build/intermediates/classes/debug
+/Users/duncanunderwood/Desktop/apps/melbeerfest/platforms/android/build/intermediates/pre-dexed/debug/classes-9e5317d86d0ce3ae31baf8aa6e1a31ccf1b0c1a0.jar

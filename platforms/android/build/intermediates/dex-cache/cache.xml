@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/duncanunderwood/Desktop/apps/melbeerfest/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8977bf63969c1e3e830d957123d419d037f3bf1f">
+        <dex dex="/Users/duncanunderwood/Desktop/apps/melbeerfest/platforms/android/build/intermediates/pre-dexed/debug/classes-9e5317d86d0ce3ae31baf8aa6e1a31ccf1b0c1a0.jar" />
+    </item>
+
+</items>
